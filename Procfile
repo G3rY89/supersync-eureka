@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dserver.port=$PORT -cp target/ks-eureka-1.0-SNAPSHOT.jar Main
+web: java $JAVA_OPTS -Dserver.port=$PORT -cp target/ks-eureka-1.0-SNAPSHOT.jar KulcsSoftEurekaServer
