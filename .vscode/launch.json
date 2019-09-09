@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-KulcsSoftEurekaServer<ks-eureka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ks.eurekaserver.KulcsSoftEurekaServer",
+            "projectName": "ks-eureka",
+            "args": ""
+        }
+    ]
+}
